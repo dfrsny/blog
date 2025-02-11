@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Tutorial belajar react js",
+        "tags": ["react", "frontend"],
+        "date": "2025-01-01",
+        "isNew": true
+    },
+    {
+        "title": "Tutorial belajar node js",
+        "tags": ["react", "frontend"],
+        "date": "2025-01-01",
+        "isNew": true
+    },    {
+        "title": "Tutorial belajar next js",
+        "tags": ["react", "frontend"],
+        "date": "2025-01-01",
+        "isNew": false
+    }    
+
+]
